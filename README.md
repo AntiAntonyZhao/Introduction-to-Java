@@ -1,5 +1,10 @@
 # Introduction to Computer Science
 
+- [Assignment 1: Modeling a University Course Registration System](#assignment-1-modeling-a-university-course-registration-system)
+- [Assignment 2: Chess Game Simulation](#assignment-2-chess-game-simulation)
+- [Assignment 3: Recursive Solutions for Antenna Pairing and Maze Solver](#assignment-3-recursive-solutions-for-antenna-pairing-and-maze-solver)
+- [Assignment 4: Collision Detection in 2D Physics Simulation](#assignment-4-collision-detection-in-2d-physics-simulation)
+
 ## Assignment 1: Modeling a University Course Registration System
 
 ### Overview
